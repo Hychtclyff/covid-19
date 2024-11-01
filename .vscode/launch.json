@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        
+        {
+            "name": "covid_19 (debug mode on Vivo 1727)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "deviceId": "55f39009"
+        },
+        {
+            "name": "covid_19 (profile mode on Vivo 1727)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile",
+            "deviceId": "55f39009"
+        },
+        {
+            "name": "covid_19 (release mode on Vivo 1727)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "deviceId": "55f39009"
+        }
+    ]
+}
+
+
